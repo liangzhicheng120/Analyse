@@ -11,7 +11,7 @@ import java.text.DecimalFormat;
 import java.util.*;
 public class ABC extends JFrame implements ActionListener {
 	/**
-	 * 
+	 * create by liangzhicheng
 	 */
 	private static final long serialVersionUID = 1L;
 /*----------------------------------------------------------------------------------------------------
